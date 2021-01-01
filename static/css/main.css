@@ -395,12 +395,6 @@ h2 {
   color: rgba(255, 255, 255, var(--tw-text-opacity));
 }
 
-@-webkit-keyframes spin {
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 @keyframes spin {
   to {
     transform: rotate(360deg);
